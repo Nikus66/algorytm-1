@@ -3,5 +3,6 @@ Dla zadanego ciągu zer i jedynek znajdź wszystkie dłuższe niz dwuelementowe 
 # Program i Funkcje
 program jest opisany w main.cpp razem i mozliwoscia wykonania testów
 funkcje.h zawiera funkcje
+wyniki będa zapisane w pliku wyniki.txt
 # sprawozdanie 
 sprawozdanie znajduje sie w folderze sprawozdanie
