@@ -5,7 +5,9 @@ using namespace std;
 
 int main()
 {
-    int n=20, t;
+    int n, t;
+    cout<<"podaj ilosc elementow w tablicy skladajacej sie z zer i jedynek"<<endl;
+    cin>>n;
     cout<<"Podaj ilosc testow: ";
     cin>>t;
 
@@ -19,7 +21,7 @@ int main()
         tab2="";
         tab2= generuj_jedynki_przed_zerami(tab, n);
         zapis<<tab2<<endl;;
-        n=n+5;
+       // n=n+5;
         delete tab;
     }
     cout<<"Wyniki zapisano do pliku Wyniki.txt"<<endl;
