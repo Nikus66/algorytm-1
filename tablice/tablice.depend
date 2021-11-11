@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1636504234 source:d:\nikodem\tablice\main.cpp
+	<iostream>
+	<fstream>
+	"funkcje.h"
+
+1636504081 d:\nikodem\tablice\funkcje.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1636629129 source:c:\users\nikodem\desktop\tablice\main.cpp
+	<iostream>
+	<fstream>
+	"funkcje.h"
+
+1636639373 c:\users\nikodem\desktop\tablice\funkcje.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
